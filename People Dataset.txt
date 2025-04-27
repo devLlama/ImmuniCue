@@ -1,0 +1,20 @@
+Chinedu Okafor	3/12/2015	"12 Adeola Odeku St, Victoria Island, Lagos"	0803 123 4567
+Amina Bello	7/8/2016	"45 Ahmadu Bello Way, Kaduna"	0701 234 5678
+Emeka Nwosu	11/22/2014	"78 Aba Rd, Port Harcourt, Rivers State"	0810 345 6789
+Fatima Yusuf	9/3/2017	"23 Zaria Rd, Kano"	0805 456 7890
+Ibrahim Musa	5/19/2018	"56 Sardauna Cres, Jos, Plateau State"	0706 567 8901
+Ngozi Eze	12/30/2013	"89 Ogui Rd, Enugu"	0812 678 9012
+Tunde Adebayo	4/15/2015	"34 Ring Road, Ibadan, Oyo State"	0903 789 0123
+Hauwa Suleiman	6/25/2016	"67 Ali Akilu Rd, Sokoto"	0802 890 1234
+Uchechi Obi	8/9/2017	"90 Okigwe Rd, Owerri, Imo State"	0708 901 2345
+Musa Abdullahi	10/1/2014	"12 Ibrahim Taiwo Rd, Ilorin, Kwara State"	0815 012 3456
+Ifeoma Chukwu	1/18/2016	"23 Nnamdi Azikiwe Ave, Awka, Anambra State"	0905 123 4567
+Abdullahi Garba	2/27/2017	"45 Ahmadu Bello Way, Bauchi"	0809 234 5678
+Kemi Adeyemi	3/5/2015	"67 Oba Adesida Rd, Akure, Ondo State"	0705 345 6789
+Sani Mohammed	7/14/2018	"89 Bank Rd, Minna, Niger State"	0817 456 7890
+Chiamaka Umeh	9/29/2013	"34 Aba-Owerri Rd, Aba, Abia State"	0902 567 8901
+Yusuf Lawal	5/6/2016	"56 Emir Rd, Gusau, Zamfara State"	0806 678 9012
+Adaobi Nwachukwu	11/11/2017	"78 Okpara Ave, Umuahia, Abia State"	0703 789 0123
+Bashir Ahmed	12/2/2014	"90 Lamido Rd, Yola, Adamawa State"	0811 890 1234
+Oluchi Nnaji	4/20/2015	"12 Ogbete Main Market Rd, Enugu"	0901 901 2345
+Kabiru Usman	6/10/2016	"23 BUK Rd, Kano"	0804 012 3456
